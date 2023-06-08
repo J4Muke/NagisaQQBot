@@ -1,0 +1,8 @@
+[QQ]
+qq_number = Your QQ Number
+
+[OPENAI API]
+key = Your OpenAI API key
+
+[BOT]
+charactor = 你的人物设定
